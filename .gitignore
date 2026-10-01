@@ -1,0 +1,9 @@
+node_modules/
+docs/.vitepress/dist
+docs/.vitepress/cache
+docs/.vitepress/.temp
+takeout-*.zip
+Takeout/
+blog-data/
+*.py
+*.js
