@@ -1,4 +1,5 @@
 ---
+cover_image: "20150916-114628.jpg"
 title: "Pro tip: Don't Lose Your Passport"
 date: 2015-09-20T17:50:00.001Z
 ---

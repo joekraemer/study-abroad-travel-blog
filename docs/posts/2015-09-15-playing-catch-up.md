@@ -1,4 +1,5 @@
 ---
+cover_image: "20150904-161352.jpg"
 title: "Playing Catch Up"
 date: 2015-09-15T20:21:00.003Z
 ---

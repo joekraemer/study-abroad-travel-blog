@@ -1,4 +1,5 @@
 ---
+cover_image: "20151108-135741.jpg"
 title: "Solo in Sevilla"
 date: 2015-11-11T23:29:00.001Z
 ---

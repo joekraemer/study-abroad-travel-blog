@@ -1,4 +1,5 @@
 ---
+cover_image: "20151016-101229.jpg"
 title: "Half Way Point"
 date: 2015-10-22T17:32:00.002Z
 ---

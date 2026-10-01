@@ -1,4 +1,5 @@
 ---
+cover_image: "20151008-191205.jpg"
 title: "Long Weekend in London"
 date: 2015-10-16T19:32:00.002Z
 ---

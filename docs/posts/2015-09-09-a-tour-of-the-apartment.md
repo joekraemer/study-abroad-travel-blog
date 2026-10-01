@@ -1,4 +1,5 @@
 ---
+cover_image: "20150909-152500.jpg"
 title: "A Tour of the Apartment"
 date: 2015-09-09T22:29:00Z
 ---

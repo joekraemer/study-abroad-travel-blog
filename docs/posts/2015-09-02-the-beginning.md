@@ -1,4 +1,5 @@
 ---
+cover_image: "2015-09-02-04-opt.jpg"
 title: "The beginning"
 date: 2015-09-02T10:02:00.003Z
 ---

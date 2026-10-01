@@ -1,4 +1,5 @@
 ---
+cover_image: "20151129-134934.jpg"
 title: "Road Tripping to Portugal"
 date: 2015-12-10T14:21:00Z
 ---

@@ -1,4 +1,5 @@
 ---
+cover_image: "20151030-174956.jpg"
 title: "France, Painted Forest, and Butrón Castle"
 date: 2015-11-05T01:03:00.001Z
 ---

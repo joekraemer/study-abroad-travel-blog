@@ -1,4 +1,5 @@
 ---
+cover_image: "20150917-134501.jpg"
 title: "First weekend trip"
 date: 2015-09-22T23:46:00.001Z
 ---

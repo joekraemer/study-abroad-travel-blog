@@ -1,4 +1,5 @@
 ---
+cover_image: "20150929-085151.jpg"
 title: "One Month Down"
 date: 2015-10-07T21:19:00.004Z
 ---

@@ -1,4 +1,5 @@
 ---
+cover_image: "20150902-084206.jpg"
 title: "The First Couple Days"
 date: 2015-09-07T19:57:00.003Z
 ---

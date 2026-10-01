@@ -1,4 +1,5 @@
 ---
+cover_image: "20150913-144425.jpg"
 title: "First Day On The Job"
 date: 2015-09-15T20:57:00.001Z
 ---

@@ -1,4 +1,5 @@
 ---
+cover_image: "article-2114912-122A935E000005DC-5-964x612.jpg"
 title: "New Foods and a Weekend to Madrid and Toledo"
 date: 2015-09-30T21:52:00.002Z
 ---
