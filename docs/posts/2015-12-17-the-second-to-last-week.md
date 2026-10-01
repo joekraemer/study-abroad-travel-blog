@@ -1,12 +1,12 @@
 ---
 cover_image: "20151130-115733.jpg"
 title: "The Second to Last Week :("
-date: 2016-01-20T03:10:00.001Z
+date: 2015-12-17T12:00:00.000Z
 ---
 
 # The Second to Last Week :(
 
-_Jan 19, 2016_
+_Dec 17, 2015_
 
   
 

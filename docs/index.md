@@ -86,7 +86,7 @@ import { withBase } from 'vitepress'
 
 <div class="home-header">
   <h1>My Semester in Spain</h1>
-  <p>A collection of memories, photos, and stories from 2015 to 2016.</p>
+  <p>A collection of memories, photos, and stories from 2015.</p>
 </div>
 
 <div class="photo-grid">
