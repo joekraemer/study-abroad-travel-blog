@@ -24,7 +24,7 @@ On Wednesday I had my visit to the embassy to deal with all my passport issues. 
 
   
 
-[Passport Story](http://joekraemerabroad.blogspot.com/2015/09/pro-tip-dont-lose-your-passport.html)
+[Passport Story](/posts/2015-09-20-pro-tip-dont-lose-your-passport)
 
   
 
