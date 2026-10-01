@@ -5,6 +5,7 @@ title: "My Semester in Spain"
 
 <script setup>
 import { data as posts } from './posts.data.mjs'
+import { withBase } from 'vitepress'
 </script>
 
 <style>
@@ -89,8 +90,8 @@ import { data as posts } from './posts.data.mjs'
 </div>
 
 <div class="photo-grid">
-  <a v-for="post in posts" :key="post.url" :href="post.url" class="grid-item">
-    <img v-if="post.cover_image" :src="`/images/${post.cover_image}`" alt="Cover" loading="lazy" />
+  <a v-for="post in posts" :key="post.url" :href="withBase(post.url)" class="grid-item">
+    <img v-if="post.cover_image" :src="withBase(`/images/${post.cover_image}`)" alt="Cover" loading="lazy" />
     <div class="grid-overlay">
       <h3>{{ post.title }}</h3>
       <span>{{ new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) }}</span>
